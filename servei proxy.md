@@ -84,7 +84,7 @@ Ara hem de posar en marxa aquestes webs. Necessitaràs obrir **3 terminals noves
 
 *Ara tenim 3 webs funcionant als ports 3000, 3001 i 3002. No tanquis aquestes terminals.*
 
-*Segurament sabras accedir obrint 3 sessions ssh pero la versio pro seria utilitzar una eina com termmux, eixa part la deixe per als pros de classe, pregunteuli al vostre amic gpt que vos ajudara (o proveu el nou gemini 3 a Google Studio AI.*
+*Segurament sabras accedir obrint 3 sessions ssh pero la versió pro seria utilitzar una eina com termmux, eixa part la deixe per als pros de classe, pregunteu-li al vostre amic gpt que vos ajudarà (o proveu el nou gemini 3 a Google Studio AI.*
 
 ---
 
