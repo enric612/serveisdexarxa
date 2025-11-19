@@ -198,6 +198,8 @@ Si volem simular que tenim un domini sense tenir-ne un, podem utilitzar l'eina `
 Escriu això a la terminal:
 ```bash
 curl http://localhost
+```
+
 *(Veuràs el codi HTML d'un dels servidors).*
 
 Repeteix la comanda diverses vegades. Veuràs com cada vegada respon un servidor diferent. Nginx està balancejant la càrrega perfectament!
