@@ -61,7 +61,7 @@ mkdir web1 web2 web3
 echo "<h1>Hola! Sóc el SERVIDOR 1 (Port 3000)</h1>" > web1/index.html
 echo "<h1>Hola! Sóc el SERVIDOR 2 (Port 3001)</h1>" > web2/index.html
 echo "<h1>Hola! Sóc el SERVIDOR 3 (Port 3002)</h1>" > web3/index.html
-
+ˋ ˋ ˋ
 **2. Activar els servidors**
 Ara hem de posar en marxa aquestes webs. Necessitaràs obrir **3 terminals noves** (o pestanyes de terminal), ja que cada servidor ocupa una finestra.
 
